@@ -1,0 +1,7 @@
+{
+  "name": "Cyber Ethical Hacker Security Dashboard",
+  "description": "একটি উন্নত সিকিউরিটি ড্যাশবোর্ড যা ফোন হ্যাক, মেলওয়্যার এবং ফিশিং লিংক শনাক্ত করতে সাহায্য করে। এটি সরাসরি টেলিগ্রামের মাধ্যমে এলার্ট পাঠায়।",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
